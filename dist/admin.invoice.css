@@ -1,0 +1,95 @@
+.invoice-template {
+    font-size: 10px;
+    border: 1px solid black;
+    background: #fff;
+}
+
+.invoice-template p {
+    margin-bottom: 1px;
+}
+
+.invoice-template .form-group label {
+    margin-bottom: 1px;
+    font-size: 10px;
+}
+
+.invoice-template .form-control {
+    font-size: 10px;
+    height: 23px !important;
+    padding: 3px !important;
+}
+
+.fixed-content {
+    height: 450px;
+    overflow-y: auto;
+}
+
+.table td {
+    font-weight: 600;
+}
+
+.max-width-300 {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.copyright {
+    font-size: 7px;
+}
+
+.col-nameInvoice {
+    width: 50%;
+}
+
+.col-qtyInvoice {
+    width: 10%;
+    text-align: center;
+}
+
+.col-priceInvoice {
+    width: 17%;
+    text-align: right;
+}
+
+.col-totalInvoice {
+    width: 23%;
+    text-align: right;
+}
+
+.invoice-detail tbody tr td {
+    font-size: 9px;
+    padding: 4px !important;
+}
+
+.invoice-detail {
+    margin-bottom: 5px;
+}
+
+.invoice-detail th {
+    padding: 4px !important;
+}
+
+.invoice-header .form-group {
+    margin-bottom: 5px;
+}
+
+.invoice-footer label {
+    padding-top: 4px;
+}
+
+.copyright {
+    background: #333;
+    color: #CCC;
+    padding: 3px;
+    padding-right: 8px;
+}
+
+.w-25 {
+    width: 20%;
+    display: inline-block !important;
+}
+
+.w-75 {
+    width: 75%;
+    display: inline-block !important;
+}

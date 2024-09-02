@@ -1,0 +1,342 @@
+.checkout-card {
+    border-radius: 4px;
+    border: 0px solid transparent;
+}
+
+@media(max-width: 767px) {
+    .checkout-card {
+        margin-top: 8px;
+    }
+}
+
+.products-card {
+    border-radius: 4px;
+    border: 0px solid transparent;
+}
+
+.form-group {
+    margin-bottom: 1rem
+}
+
+.btn-checkout {
+    margin-top: 8px;
+    border-radius: 4px;
+    width: 100%;
+    background: #721c77!important;
+    border: 0px solid transparent;
+    font-size: 11px;
+    color: #fff;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    box-shadow: 0 0 6px 2px rgba(0, 0, 0, .2);
+}
+
+.btn-checkout:hover {
+    background: #721c77!important;
+    color: #fff;
+}
+
+.checkout-subtotal-table {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: calc(100% - 16px);
+    font-size: 12px;
+}
+
+.checkout-subtotal-table #txtSubTotal {
+    text-align: right;
+    color: #721c77!important;
+     font-weight: bold;
+}
+
+.checkout-subtotal-table #txtDiscount {
+    text-align: right;
+    color: #721c77!important;
+}
+
+.checkout-subtotal-table #txtDiscount input[type=number]:focus {
+    outline: none;
+}
+
+.checkout-subtotal-table #txtDiscount input[type=number] {
+    width: 32px;
+    padding-left: 4px;
+    padding-right: 4px;
+    text-align: center;
+    border: 0px solid transparent;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, .1);
+    border-radius: 4px;
+}
+
+.checkout-subtotal-table #txtDiscount input[type=number]::-webkit-inner-spin-button,
+.checkout-subtotal-table #txtDiscount input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+
+.checkout-total-table {
+    margin: 15px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    width: calc(100% - 30px);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.checkout-total-table #txtTotal {
+    text-align: right;
+    color: #721c77!important;
+}
+
+.checkout-subtotal-table #txtsTotal {
+    text-align: right;
+    font-weight: bold;
+    color: #721c77!important;
+}
+
+.btn-detail {
+    width: 24px !important;
+    height: 24px !important;
+    border-radius: 16px;
+    line-height: 12px;
+    font-size: 20px;
+    padding: 0px;
+    color: #721c77!important;
+    border: 1px solid #721c77!important;
+}
+
+.checkout-detail-table thead th {
+    position: sticky;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    top: 0;
+    background: #f8f9fa;
+}
+
+.checkout-detail-table {
+    width: 100%;
+    font-size: 10px;
+}
+
+.checkout-detail-table tr {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.col-trash {
+    width: 38px;
+}
+
+.col-name {
+    text-align: left;
+}
+
+.col-qty {
+    text-align: center;
+    width: 75px;
+}
+
+.col-qty label {
+    width: 18px !important;
+}
+
+.col-price {
+    width: 64px;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.checkout-detail-wrapper {
+    height: calc(100vh - 383px);
+    max-height: calc(100vh - 383px);
+    overflow-y: auto;
+}
+
+.restore-badge {
+    background: #fff;
+    color: #4cd137;
+    margin-left: 3px
+}
+
+.btn-order {
+    margin-top: 8px;
+    border-radius: 4px;
+    width: 120px;
+    margin-left: 15px;
+    font-size: 11px;
+    font-weight: 500;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    box-shadow: 0 0 6px 2px rgba(0, 0, 0, .1);
+}
+
+.products-results {
+    height: calc(100vh - 281px);
+    max-height: calc(100vh - 281px);
+    padding: 12px;
+    overflow-y: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.filter-row {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+.filter-row .form-group {
+    margin-bottom: 2px;
+}
+
+.single-line {
+    margin: 0;
+}
+
+.btn-search {
+    background: #721c77!important;
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    color: white;
+    border-radius: 14px;
+}
+
+.filter-row .search-control {
+    height: 28px;
+    border-radius: 14px;
+    width: 175px;
+    font-size: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid #eee;
+    background: #f8f9fa;
+}
+
+.combo-control {
+    height: 24px !important;
+    max-height: 28px !important;
+    border-radius: 14px;
+    width: 175px;
+    font-size: 10px;
+    padding-top: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid #eee;
+    background: #f8f9fa;
+}
+
+.filter-row input,
+.filter-row select {
+    outline: none;
+}
+
+.category-row {
+    align-items: center;
+}
+
+.category-row span {
+    font-size: 11px;
+    margin-right: 4px;
+}
+
+.filter-row {
+    padding: 10px;
+}
+
+.btn-search:hover {
+    color: #fff;
+}
+
+.pos-item {
+    width: 75px;
+    text-align: center;
+    padding: 5px;
+}
+
+.pos-item h6 {
+    margin-bottom: 4px;
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+.pos-item img {
+    width: 64px;
+    height: 64px;
+    border: 1px solid #f8f9fa;
+}
+
+.pos-item p {
+    font-size: 10px;
+    color: #721c77;
+    font-weight: 700;
+}
+
+.md-field {
+    padding: 0 !important;
+    margin: 0 !important;
+    min-height: auto !important;
+}
+
+.md-menu.md-select {
+    overflow: unset !important;
+}
+
+.md-select .md-input {
+    font-size: 10px !important;
+}
+
+.md-select .md-icon {
+    font-size: 16px !important;
+}
+
+.pos-paid:focus {
+    outline: none;
+}
+
+.pos-paid {
+    width: 75px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 12px;
+    text-align: center;
+    border: 0px solid transparent;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, .1);
+    border-radius: 4px;
+}
+
+.pos-paid::-webkit-inner-spin-button,
+.pos-paid::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.pos-fee:focus {
+    outline: none;
+}
+
+.pos-fee {
+    width: 75px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 12px;
+    text-align: center;
+    border: 0px solid transparent;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, .1);
+    border-radius: 4px;
+}
+
+.pos-fee::-webkit-inner-spin-button,
+.pos-fee::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+#txtPaid {
+    text-align: right;
+}
+#txtfee {
+    text-align: right;
+}

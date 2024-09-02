@@ -1,0 +1,1090 @@
+[28-Feb-2020 07:56:55 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[29-Feb-2020 00:40:37 America/New_York] PHP Notice:  Undefined variable: Id in /home/dummjcdw/public_html/actions/update_product.php on line 8
+[29-Feb-2020 00:40:49 America/New_York] PHP Notice:  Undefined variable: Id in /home/dummjcdw/public_html/actions/update_product.php on line 8
+[29-Feb-2020 00:41:15 America/New_York] PHP Notice:  Undefined variable: Id in /home/dummjcdw/public_html/actions/update_product.php on line 8
+[29-Feb-2020 02:46:09 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 02:46:10 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 02:46:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 02:47:00 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 02:47:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 03:20:45 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 03:22:20 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 03:25:45 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 03:31:19 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 03:33:55 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 03:33:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 03:34:23 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 03:34:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 03:35:02 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 03:35:11 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 03:41:08 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 03:41:08 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 03:41:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 03:47:20 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 03:47:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 04:04:15 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 04:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 04:06:12 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 04:06:13 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 04:06:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 04:09:06 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 04:09:07 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 04:09:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 04:21:14 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 04:21:14 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 100
+[29-Feb-2020 04:21:14 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 04:21:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 04:27:09 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 04:27:09 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 100
+[29-Feb-2020 04:27:09 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 104
+[29-Feb-2020 04:27:09 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 108
+[29-Feb-2020 04:27:10 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 04:27:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 04:47:58 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[29-Feb-2020 04:47:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[29-Feb-2020 04:51:24 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[29-Feb-2020 04:51:24 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 108
+[29-Feb-2020 05:02:24 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[29-Feb-2020 05:03:20 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[29-Feb-2020 05:03:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[29-Feb-2020 05:04:44 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[29-Feb-2020 09:27:59 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dummjcdw/public_html/actions/login.php on line 10
+[29-Feb-2020 09:28:09 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dummjcdw/public_html/actions/login.php on line 10
+[29-Feb-2020 09:28:22 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dummjcdw/public_html/actions/login.php on line 10
+[29-Feb-2020 09:30:42 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dummjcdw/public_html/actions/login.php on line 10
+[29-Feb-2020 09:30:46 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dummjcdw/public_html/actions/login.php on line 10
+[29-Feb-2020 09:34:46 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dummjcdw/public_html/actions/login.php on line 10
+[29-Feb-2020 09:34:51 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dummjcdw/public_html/actions/login.php on line 10
+[29-Feb-2020 09:36:22 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dummjcdw/public_html/actions/login.php on line 10
+[29-Feb-2020 09:36:48 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dummjcdw/public_html/actions/login.php on line 10
+[01-Mar-2020 01:31:42 America/New_York] PHP Notice:  Undefined index: SubProductId in /home/dummjcdw/public_html/actions/fetch_sub_product_details.php on line 8
+[01-Mar-2020 01:31:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sub_product_details.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sub_product_details.php on line 11
+[02-Mar-2020 01:51:35 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 01:53:39 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 01:55:15 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 01:56:27 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 01:59:18 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 02:00:27 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 02:01:54 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 02:02:36 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 02:04:55 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 02:07:10 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 02:28:58 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 02:31:30 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 02:32:32 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 02:39:51 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 03:38:14 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 03:38:50 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 03:40:21 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 03:45:49 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 03:47:39 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 03:49:08 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 03:50:00 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 03:52:06 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/public_html/actions/fetch_unit.php on line 5
+[02-Mar-2020 05:29:02 America/New_York] PHP Notice:  Undefined index: DeliveryManId in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 3
+[02-Mar-2020 05:29:02 America/New_York] PHP Notice:  Undefined index: Date in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 4
+[02-Mar-2020 05:29:02 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 25
+[02-Mar-2020 05:29:02 America/New_York] PHP Notice:  Undefined variable: db in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 26
+[02-Mar-2020 05:29:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 26
+[02-Mar-2020 06:09:07 America/New_York] PHP Notice:  Undefined index: DeliveryManId in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 3
+[02-Mar-2020 06:09:07 America/New_York] PHP Notice:  Undefined index: Date in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 4
+[02-Mar-2020 06:09:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 28
+[02-Mar-2020 06:09:42 America/New_York] PHP Notice:  Undefined index: DeliveryManId in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 4
+[02-Mar-2020 06:09:42 America/New_York] PHP Notice:  Undefined index: Date in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 5
+[02-Mar-2020 06:09:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 29
+[02-Mar-2020 06:12:47 America/New_York] PHP Notice:  Undefined index: DeliveryManId in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 4
+[02-Mar-2020 06:12:47 America/New_York] PHP Notice:  Undefined index: Date in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 5
+[02-Mar-2020 06:12:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 29
+[02-Mar-2020 06:13:18 America/New_York] PHP Notice:  Undefined index: DeliveryManId in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 4
+[02-Mar-2020 06:13:18 America/New_York] PHP Notice:  Undefined index: Date in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 5
+[02-Mar-2020 06:13:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 29
+[02-Mar-2020 06:13:56 America/New_York] PHP Notice:  Undefined index: DeliveryManId in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 4
+[02-Mar-2020 06:13:56 America/New_York] PHP Notice:  Undefined index: Date in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 5
+[02-Mar-2020 06:13:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 29
+[02-Mar-2020 06:14:15 America/New_York] PHP Notice:  Undefined index: DeliveryManId in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 4
+[02-Mar-2020 06:14:15 America/New_York] PHP Notice:  Undefined index: Date in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 5
+[02-Mar-2020 06:14:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 30
+[02-Mar-2020 07:26:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 32
+[02-Mar-2020 07:55:14 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[02-Mar-2020 07:55:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[02-Mar-2020 08:12:04 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[02-Mar-2020 08:12:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[02-Mar-2020 08:12:54 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[02-Mar-2020 08:12:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[02-Mar-2020 08:13:17 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[02-Mar-2020 08:13:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[04-Mar-2020 01:21:46 America/New_York] PHP Notice:  Undefined index: DeliveryManId in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 4
+[04-Mar-2020 01:21:46 America/New_York] PHP Notice:  Undefined index: LoadNo in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 6
+[04-Mar-2020 01:21:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 29
+[04-Mar-2020 01:21:56 America/New_York] PHP Notice:  Undefined index: DeliveryManId in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 4
+[04-Mar-2020 01:21:56 America/New_York] PHP Notice:  Undefined index: LoadNo in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 6
+[04-Mar-2020 01:21:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_loadout_list.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_loadout_list.php on line 29
+[04-Mar-2020 03:44:36 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 03:44:36 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[04-Mar-2020 03:44:37 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[04-Mar-2020 03:44:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[04-Mar-2020 03:50:42 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 03:50:42 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[04-Mar-2020 03:50:55 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 03:50:55 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[04-Mar-2020 03:51:08 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 03:51:08 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[04-Mar-2020 03:51:08 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[04-Mar-2020 03:51:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[04-Mar-2020 03:58:13 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 03:58:13 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[04-Mar-2020 03:58:13 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[04-Mar-2020 03:58:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[04-Mar-2020 04:08:37 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:08:37 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:08:37 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[04-Mar-2020 04:08:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[04-Mar-2020 04:22:13 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:22:13 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:22:20 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:22:20 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:22:28 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:22:28 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:22:39 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:22:39 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:22:43 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:22:43 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:22:51 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:22:51 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:22:55 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:22:55 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:23:00 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:23:00 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:23:05 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:23:05 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:23:09 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:23:09 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:23:14 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:23:14 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:23:14 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[04-Mar-2020 04:23:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[04-Mar-2020 04:28:09 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[04-Mar-2020 04:28:09 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[04-Mar-2020 04:28:10 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[04-Mar-2020 04:28:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[04-Mar-2020 05:16:05 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[04-Mar-2020 05:16:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[04-Mar-2020 05:20:47 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[04-Mar-2020 05:20:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[04-Mar-2020 05:44:10 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[04-Mar-2020 05:44:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[05-Mar-2020 01:44:00 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[05-Mar-2020 01:44:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[05-Mar-2020 01:44:25 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[05-Mar-2020 01:44:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[05-Mar-2020 01:44:51 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[05-Mar-2020 01:44:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[05-Mar-2020 12:07:21 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[05-Mar-2020 12:07:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[05-Mar-2020 12:10:23 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[05-Mar-2020 12:10:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 02:08:25 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 02:08:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 02:11:12 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 02:11:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 02:11:12 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 02:11:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:14:24 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:14:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 03:14:25 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:14:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:17:03 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:17:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 03:17:04 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:17:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:17:58 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:17:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 03:17:58 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:17:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:18:07 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:18:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 03:18:18 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:18:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 03:18:19 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:18:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:20:26 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:20:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 03:20:27 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:20:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:21:00 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:21:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 03:21:01 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:21:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:25:28 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:25:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 03:25:30 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:25:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:26:37 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:26:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:29:27 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:30:37 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:30:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:31:07 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:31:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:31:34 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:31:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:34:40 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:34:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 16
+[07-Mar-2020 03:34:40 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:34:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:50:45 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:50:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 17
+[07-Mar-2020 03:50:45 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:50:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:51:21 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[07-Mar-2020 03:51:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[07-Mar-2020 03:53:37 America/New_York] PHP Notice:  Undefined index: deliverymanid in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 3
+[07-Mar-2020 03:53:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 17
+[09-Mar-2020 03:05:10 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[09-Mar-2020 03:05:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[09-Mar-2020 05:01:28 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 116
+[09-Mar-2020 07:38:39 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 123
+[09-Mar-2020 07:44:18 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 92
+[09-Mar-2020 07:44:18 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 101
+[09-Mar-2020 07:44:32 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 123
+[09-Mar-2020 07:55:28 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 123
+[09-Mar-2020 07:56:15 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 123
+[09-Mar-2020 08:27:09 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 123
+[09-Mar-2020 08:27:20 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 92
+[09-Mar-2020 08:27:20 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 101
+[09-Mar-2020 08:27:31 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 62
+[09-Mar-2020 08:27:31 America/New_York] PHP Notice:  Undefined variable: Price in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 63
+[09-Mar-2020 08:27:31 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 92
+[09-Mar-2020 08:27:31 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 101
+[09-Mar-2020 08:27:31 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 123
+[09-Mar-2020 08:32:58 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[09-Mar-2020 08:32:58 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[09-Mar-2020 08:33:13 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 124
+[09-Mar-2020 08:33:19 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[09-Mar-2020 08:33:19 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[09-Mar-2020 08:33:29 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 63
+[09-Mar-2020 08:33:29 America/New_York] PHP Notice:  Undefined variable: Price in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 64
+[09-Mar-2020 08:33:29 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[09-Mar-2020 08:33:29 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[09-Mar-2020 08:34:23 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 124
+[12-Mar-2020 02:26:16 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 63
+[12-Mar-2020 02:26:16 America/New_York] PHP Notice:  Undefined variable: Price in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 64
+[12-Mar-2020 02:26:16 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[12-Mar-2020 02:26:16 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[12-Mar-2020 02:34:49 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 63
+[12-Mar-2020 02:34:49 America/New_York] PHP Notice:  Undefined variable: Price in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 64
+[12-Mar-2020 02:34:49 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[12-Mar-2020 02:34:49 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[12-Mar-2020 02:35:56 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 63
+[12-Mar-2020 02:35:56 America/New_York] PHP Notice:  Undefined variable: Price in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 64
+[12-Mar-2020 02:35:56 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[12-Mar-2020 02:35:56 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[12-Mar-2020 02:38:26 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 63
+[12-Mar-2020 02:38:26 America/New_York] PHP Notice:  Undefined variable: Price in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 64
+[12-Mar-2020 02:38:26 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[12-Mar-2020 02:38:26 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[12-Mar-2020 02:39:36 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 63
+[12-Mar-2020 02:39:36 America/New_York] PHP Notice:  Undefined variable: Price in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 64
+[12-Mar-2020 02:39:36 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[12-Mar-2020 02:39:36 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[12-Mar-2020 02:49:46 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 63
+[12-Mar-2020 02:49:46 America/New_York] PHP Notice:  Undefined variable: Price in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 64
+[12-Mar-2020 02:49:46 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[12-Mar-2020 02:49:46 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[12-Mar-2020 03:08:57 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 93
+[12-Mar-2020 03:08:57 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 102
+[12-Mar-2020 03:09:15 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 124
+[21-Mar-2020 04:57:44 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[21-Mar-2020 07:36:20 America/New_York] PHP Notice:  Undefined index: user_id in /home/dummjcdw/public_html/actions/fetch_balance.php on line 4
+[21-Mar-2020 07:36:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_balance.php on line 6
+[21-Mar-2020 07:36:20 America/New_York] PHP Notice:  Undefined index: user_id in /home/dummjcdw/public_html/actions/sales.php on line 6
+[21-Mar-2020 07:36:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/sales.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/sales.php on line 11
+[21-Mar-2020 07:36:21 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_recovery.php on line 5
+[21-Mar-2020 07:36:21 America/New_York] PHP Notice:  Undefined index: user_id in /home/dummjcdw/public_html/actions/add_recovery.php on line 6
+[21-Mar-2020 07:38:06 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_recovery.php on line 5
+[21-Mar-2020 07:41:36 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 122
+[21-Mar-2020 07:47:51 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 3
+[21-Mar-2020 07:47:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_cus_sec_pro.php on line 14
+[21-Mar-2020 07:48:53 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 122
+[04-Apr-2020 05:55:08 America/New_York] PHP Notice:  Undefined variable: Status in /home/dummjcdw/public_html/actions/sales.php on line 52
+[04-Apr-2020 06:01:13 America/New_York] PHP Notice:  Undefined variable: Status in /home/dummjcdw/public_html/actions/sales.php on line 52
+[05-Apr-2020 03:11:19 America/New_York] PHP Notice:  Undefined index: Date in /home/dummjcdw/public_html/actions/fetch_sec_sale_cus.php on line 4
+[05-Apr-2020 03:11:47 America/New_York] PHP Notice:  Undefined index: Date in /home/dummjcdw/public_html/actions/fetch_sec_sale_cus.php on line 4
+[05-Apr-2020 13:27:03 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/public_html/actions/fetch_balance.php on line 3
+[05-Apr-2020 13:27:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_balance.php on line 6
+[05-Apr-2020 13:29:18 America/New_York] PHP Notice:  Undefined index: Username in /home/dummjcdw/public_html/actions/login.php on line 3
+[05-Apr-2020 13:29:18 America/New_York] PHP Notice:  Undefined index: Password in /home/dummjcdw/public_html/actions/login.php on line 4
+[05-Apr-2020 13:31:16 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[05-Apr-2020 13:31:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[05-Apr-2020 13:33:25 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 91
+[05-Apr-2020 13:33:25 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 124
+[05-Apr-2020 13:33:26 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[05-Apr-2020 13:33:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[05-Apr-2020 13:45:17 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/public_html/actions/fetch_balance.php on line 3
+[05-Apr-2020 13:45:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_balance.php on line 6
+[05-Apr-2020 13:45:39 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[05-Apr-2020 13:45:39 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[05-Apr-2020 13:45:39 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 146
+[05-Apr-2020 13:45:40 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[05-Apr-2020 13:45:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[06-Apr-2020 02:47:00 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[06-Apr-2020 02:47:00 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[06-Apr-2020 02:47:00 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 146
+[06-Apr-2020 02:47:00 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[06-Apr-2020 02:47:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[06-Apr-2020 02:49:30 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[06-Apr-2020 02:49:30 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[06-Apr-2020 02:49:30 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 146
+[06-Apr-2020 02:49:31 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[06-Apr-2020 02:49:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[06-Apr-2020 02:50:23 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/public_html/actions/fetch_balance.php on line 3
+[06-Apr-2020 02:50:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_balance.php on line 6
+[06-Apr-2020 02:50:49 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[06-Apr-2020 02:50:49 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[06-Apr-2020 02:50:49 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 146
+[06-Apr-2020 02:50:50 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[06-Apr-2020 02:50:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[06-Apr-2020 03:04:11 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[06-Apr-2020 03:04:11 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[06-Apr-2020 03:04:11 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[06-Apr-2020 03:04:15 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[06-Apr-2020 03:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[06-Apr-2020 03:05:22 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 91
+[06-Apr-2020 03:05:22 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 130
+[06-Apr-2020 03:08:25 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 91
+[06-Apr-2020 03:08:25 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 130
+[06-Apr-2020 03:09:14 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 91
+[06-Apr-2020 03:09:14 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 130
+[06-Apr-2020 03:15:43 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 91
+[06-Apr-2020 03:15:43 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 130
+[06-Apr-2020 03:21:27 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[06-Apr-2020 03:21:27 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[06-Apr-2020 03:21:27 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[06-Apr-2020 03:21:28 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[06-Apr-2020 03:21:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[06-Apr-2020 03:33:15 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[06-Apr-2020 03:33:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[06-Apr-2020 04:22:12 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[06-Apr-2020 04:22:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[06-Apr-2020 04:22:37 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[06-Apr-2020 04:22:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[06-Apr-2020 09:27:38 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 91
+[06-Apr-2020 09:27:38 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 130
+[06-Apr-2020 09:45:24 America/New_York] PHP Notice:  Undefined index: date in /home/dummjcdw/public_html/actions/fetch_loadout_subproduct.php on line 5
+[06-Apr-2020 09:45:35 America/New_York] PHP Notice:  Undefined index: date in /home/dummjcdw/public_html/actions/fetch_loadout_subproduct.php on line 5
+[06-Apr-2020 09:46:38 America/New_York] PHP Notice:  Undefined index: date in /home/dummjcdw/public_html/actions/fetch_loadout_subproduct.php on line 5
+[06-Apr-2020 09:48:25 America/New_York] PHP Notice:  Undefined index: date in /home/dummjcdw/public_html/actions/fetch_loadout_subproduct.php on line 5
+[06-Apr-2020 09:50:58 America/New_York] PHP Notice:  Undefined index: date in /home/dummjcdw/public_html/actions/fetch_loadout_subproduct.php on line 5
+[06-Apr-2020 10:02:06 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_recovery.php on line 5
+[06-Apr-2020 10:14:58 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[06-Apr-2020 10:14:58 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[06-Apr-2020 10:14:58 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[06-Apr-2020 10:15:11 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[06-Apr-2020 10:15:11 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[06-Apr-2020 10:15:11 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[06-Apr-2020 10:15:20 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[06-Apr-2020 10:15:20 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[06-Apr-2020 10:15:20 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[06-Apr-2020 10:15:20 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[06-Apr-2020 10:15:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[06-Apr-2020 10:17:31 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[06-Apr-2020 10:17:31 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[06-Apr-2020 10:17:31 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[06-Apr-2020 10:17:31 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[06-Apr-2020 10:17:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[06-Apr-2020 10:18:18 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 91
+[06-Apr-2020 10:18:18 America/New_York] PHP Notice:  Undefined variable: log in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 130
+[06-Apr-2020 11:28:17 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 11:28:17 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 90
+[06-Apr-2020 11:28:17 America/New_York] PHP Notice:  Undefined variable: Qty in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 141
+[06-Apr-2020 11:30:34 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 11:30:34 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 90
+[06-Apr-2020 11:30:34 America/New_York] PHP Notice:  Undefined variable: Qty in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 141
+[06-Apr-2020 11:30:34 America/New_York] PHP Notice:  Undefined variable: query in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 143
+[06-Apr-2020 11:31:08 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 11:31:08 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 90
+[06-Apr-2020 11:31:08 America/New_York] PHP Notice:  Undefined variable: Qty in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 141
+[06-Apr-2020 11:32:37 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 11:32:37 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 90
+[06-Apr-2020 11:37:43 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 11:37:43 America/New_York] PHP Notice:  Undefined variable: query in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 69
+[06-Apr-2020 11:37:59 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 11:37:59 America/New_York] PHP Notice:  Undefined variable: query in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 69
+[06-Apr-2020 11:38:21 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 11:39:50 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 11:39:50 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 91
+[06-Apr-2020 14:19:12 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 15:31:00 America/New_York] PHP Notice:  Undefined index: user_id in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 8
+[06-Apr-2020 15:31:00 America/New_York] PHP Notice:  Undefined variable: DeliverManName in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 65
+[06-Apr-2020 15:37:30 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 91
+[06-Apr-2020 15:38:31 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 91
+[11-Apr-2020 05:15:24 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 05:15:24 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 05:16:04 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 05:16:04 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 05:16:22 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 05:16:22 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 05:16:50 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 05:16:50 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 05:16:50 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[11-Apr-2020 05:16:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[11-Apr-2020 05:51:16 America/New_York] PHP Notice:  Undefined variable: user_id in /home/dummjcdw/public_html/actions/add_water_loss.php on line 9
+[11-Apr-2020 05:51:16 America/New_York] PHP Notice:  Undefined variable: user_id in /home/dummjcdw/public_html/actions/add_water_loss.php on line 10
+[11-Apr-2020 08:00:38 America/New_York] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/dummjcdw/public_html/actions/reverse_primarysales.php on line 4
+[11-Apr-2020 08:00:38 America/New_York] PHP Notice:  Undefined variable: Id in /home/dummjcdw/public_html/actions/reverse_primarysales.php on line 5
+[11-Apr-2020 08:24:14 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 08:24:14 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 08:25:03 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 08:25:03 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 08:25:17 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 08:25:17 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 08:25:26 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 08:25:26 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 08:25:27 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[11-Apr-2020 08:25:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[11-Apr-2020 08:25:44 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[11-Apr-2020 08:25:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[11-Apr-2020 08:29:07 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 08:29:07 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[11-Apr-2020 08:29:07 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 08:29:12 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 08:29:12 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[11-Apr-2020 08:29:12 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 08:29:13 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[11-Apr-2020 08:29:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[11-Apr-2020 08:34:56 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 4
+[11-Apr-2020 08:34:56 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 115
+[11-Apr-2020 08:34:56 America/New_York] PHP Notice:  Undefined variable: UPallet in /home/dummjcdw/public_html/actions/add_primary_empty_sale.php on line 119
+[11-Apr-2020 08:34:57 America/New_York] PHP Notice:  Undefined index: Id in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 13
+[11-Apr-2020 08:34:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_empty_details.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_empty_details.php on line 15
+[13-Apr-2020 03:37:16 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[13-Apr-2020 04:00:31 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[13-Apr-2020 04:00:31 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[13-Apr-2020 04:00:31 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[13-Apr-2020 04:00:52 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[13-Apr-2020 04:00:52 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[13-Apr-2020 04:00:52 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[13-Apr-2020 04:08:25 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[13-Apr-2020 04:08:25 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[13-Apr-2020 04:08:25 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[13-Apr-2020 04:08:26 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[13-Apr-2020 04:08:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[13-Apr-2020 04:19:03 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[13-Apr-2020 04:23:18 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[13-Apr-2020 04:23:18 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[13-Apr-2020 04:23:18 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[13-Apr-2020 04:23:28 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[13-Apr-2020 04:23:28 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[13-Apr-2020 04:23:28 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[13-Apr-2020 04:23:35 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[13-Apr-2020 04:23:35 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[13-Apr-2020 04:23:35 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[13-Apr-2020 04:23:35 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[13-Apr-2020 04:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[14-Apr-2020 06:06:38 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[14-Apr-2020 06:08:49 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_recovery.php on line 5
+[14-Apr-2020 06:11:26 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[14-Apr-2020 06:11:26 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[14-Apr-2020 06:11:26 America/New_York] PHP Notice:  Undefined variable: Reclog in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 156
+[14-Apr-2020 06:11:26 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[14-Apr-2020 06:11:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[14-Apr-2020 09:48:49 America/New_York] PHP Notice:  Undefined index: Username in /home/dummjcdw/public_html/actions/login.php on line 3
+[14-Apr-2020 09:48:49 America/New_York] PHP Notice:  Undefined index: Password in /home/dummjcdw/public_html/actions/login.php on line 4
+[18-Apr-2020 15:21:23 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[18-Apr-2020 15:30:29 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[18-Apr-2020 15:30:51 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[18-Apr-2020 15:30:51 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[18-Apr-2020 15:31:22 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[18-Apr-2020 15:31:22 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[18-Apr-2020 15:31:39 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[18-Apr-2020 15:31:39 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[18-Apr-2020 15:31:40 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[18-Apr-2020 15:31:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[19-Apr-2020 08:38:02 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[20-Apr-2020 03:11:23 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[20-Apr-2020 03:16:28 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_recovery.php on line 5
+[20-Apr-2020 03:16:29 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_credit.php on line 5
+[20-Apr-2020 03:19:05 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_recovery.php on line 5
+[20-Apr-2020 03:22:13 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[20-Apr-2020 03:22:13 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[20-Apr-2020 03:22:55 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[20-Apr-2020 03:22:55 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[20-Apr-2020 03:23:11 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[20-Apr-2020 03:23:11 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[20-Apr-2020 03:23:11 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[20-Apr-2020 03:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[20-Apr-2020 03:24:54 America/New_York] PHP Notice:  Undefined variable: Qty in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 87
+[20-Apr-2020 03:24:54 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 112
+[20-Apr-2020 07:48:56 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_recovery.php on line 5
+[20-Apr-2020 07:50:56 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_recovery.php on line 5
+[20-Apr-2020 07:51:18 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_recovery.php on line 5
+[21-Apr-2020 07:32:19 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/public_html/actions/fetch_balance.php on line 3
+[21-Apr-2020 07:32:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_balance.php on line 6
+[21-Apr-2020 07:32:19 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/public_html/actions/fetch_credit_limit.php on line 3
+[21-Apr-2020 07:32:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/functions/helpers.php:12
+Stack trace:
+#0 /home/dummjcdw/public_html/actions/fetch_credit_limit.php(4): fetchRecord(NULL, 'customer')
+#1 {main}
+  thrown in /home/dummjcdw/public_html/functions/helpers.php on line 12
+[21-Apr-2020 07:47:16 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/public_html/actions/fetch_balance.php on line 3
+[21-Apr-2020 07:47:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_balance.php on line 6
+[21-Apr-2020 07:48:32 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 12
+[21-Apr-2020 07:48:32 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 17
+[21-Apr-2020 07:48:32 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[21-Apr-2020 07:48:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[21-Apr-2020 13:09:36 America/New_York] PHP Notice:  Undefined variable: user_id in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 18
+[21-Apr-2020 13:09:51 America/New_York] PHP Notice:  Undefined variable: user_id in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 18
+[21-Apr-2020 13:10:23 America/New_York] PHP Notice:  Undefined variable: user_id in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 18
+[21-Apr-2020 13:24:45 America/New_York] PHP Notice:  Undefined variable: result in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 123
+[21-Apr-2020 13:29:50 America/New_York] PHP Notice:  Undefined variable: result in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 121
+[21-Apr-2020 13:50:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 17
+[21-Apr-2020 13:50:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 17
+[22-Apr-2020 00:30:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 17
+[22-Apr-2020 00:32:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 17
+[22-Apr-2020 00:32:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_deliveryman_active_customers.php on line 17
+[22-Apr-2020 03:02:53 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[22-Apr-2020 03:02:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[22-Apr-2020 03:19:25 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[22-Apr-2020 03:19:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[22-Apr-2020 03:27:18 America/New_York] PHP Notice:  Undefined variable: Qty in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 86
+[22-Apr-2020 03:27:18 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 111
+[22-Apr-2020 03:36:50 America/New_York] PHP Notice:  Undefined variable: Qty in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 86
+[23-Apr-2020 02:12:01 America/New_York] PHP Notice:  Undefined variable: Update in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 82
+[23-Apr-2020 02:12:02 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 13
+[23-Apr-2020 02:12:02 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 15
+[23-Apr-2020 02:12:02 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 20
+[23-Apr-2020 02:12:02 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 76
+[23-Apr-2020 02:12:02 America/New_York] PHP Notice:  Undefined variable: Update in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 82
+[23-Apr-2020 02:12:02 America/New_York] PHP Notice:  Undefined variable: DeliveryManId in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 154
+[23-Apr-2020 02:12:02 America/New_York] PHP Notice:  Undefined variable: CustomerId in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 155
+[23-Apr-2020 02:13:10 America/New_York] PHP Notice:  Undefined variable: Qty in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 25
+[23-Apr-2020 02:13:10 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 76
+[23-Apr-2020 02:13:10 America/New_York] PHP Notice:  Undefined variable: Update in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 82
+[23-Apr-2020 02:14:53 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 76
+[23-Apr-2020 02:14:53 America/New_York] PHP Notice:  Undefined variable: Update in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 82
+[23-Apr-2020 02:16:32 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 75
+[23-Apr-2020 02:16:32 America/New_York] PHP Notice:  Undefined variable: Qty in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 90
+[23-Apr-2020 02:18:26 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 75
+[23-Apr-2020 02:21:27 America/New_York] PHP Notice:  Undefined variable: Date in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 13
+[23-Apr-2020 02:21:27 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 15
+[23-Apr-2020 02:21:27 America/New_York] PHP Notice:  Undefined variable: IsRecovery in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 20
+[23-Apr-2020 02:21:27 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 75
+[23-Apr-2020 02:21:27 America/New_York] PHP Notice:  Undefined variable: DeliveryManId in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 113
+[23-Apr-2020 02:21:27 America/New_York] PHP Notice:  Undefined variable: CustomerId in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 114
+[23-Apr-2020 02:23:01 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 70
+[23-Apr-2020 03:07:24 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 59
+[23-Apr-2020 03:08:55 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 59
+[23-Apr-2020 03:10:51 America/New_York] PHP Notice:  Undefined variable: Transection in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 91
+[23-Apr-2020 03:11:03 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 59
+[23-Apr-2020 03:38:42 America/New_York] PHP Notice:  Undefined variable: Transection in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 81
+[23-Apr-2020 03:40:07 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[23-Apr-2020 03:40:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[23-Apr-2020 03:52:08 America/New_York] PHP Notice:  Undefined variable: Transection in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 81
+[23-Apr-2020 03:52:29 America/New_York] PHP Notice:  Undefined variable: Transection in /home/dummjcdw/public_html/actions/add_secondary_empty_return.php on line 81
+[23-Apr-2020 03:52:29 America/New_York] PHP Notice:  Undefined index: CustomerId in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 4
+[23-Apr-2020 03:52:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/public_html/actions/fetch_sec_sale_rec.php on line 10
+[23-Apr-2020 03:53:29 America/New_York] PHP Notice:  Undefined variable: Unfilled in /home/dummjcdw/public_html/actions/add_secondary_empty_return_recovery.php on line 70
+[30-Apr-2020 02:00:00 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 02:40:11 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 02:41:24 America/New_York] PHP Notice:  Undefined variable: Code in /home/dummjcdw/beta.dummypos.website/actions/add_packagesize.php on line 14
+[30-Apr-2020 02:42:29 America/New_York] PHP Notice:  Undefined variable: Code in /home/dummjcdw/beta.dummypos.website/actions/add_packagesize.php on line 14
+[30-Apr-2020 02:42:35 America/New_York] PHP Notice:  Undefined variable: Code in /home/dummjcdw/beta.dummypos.website/actions/add_packagesize.php on line 14
+[30-Apr-2020 02:43:14 America/New_York] PHP Notice:  Undefined variable: Code in /home/dummjcdw/beta.dummypos.website/actions/add_packagesize.php on line 14
+[30-Apr-2020 02:48:50 America/New_York] PHP Notice:  Undefined variable: Code in /home/dummjcdw/beta.dummypos.website/actions/add_packagesize.php on line 14
+[30-Apr-2020 02:56:53 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 03:02:48 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 03:05:42 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 03:06:43 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 03:13:03 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 03:14:33 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 03:15:02 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 03:15:51 America/New_York] PHP Notice:  Undefined property: stdClass::$UnitCase in /home/dummjcdw/beta.dummypos.website/actions/fetch_unit.php on line 5
+[30-Apr-2020 03:40:13 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:40:13 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:40:34 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:40:34 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:40:40 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:40:40 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:40:45 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:40:45 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:40:45 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:40:45 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:40:59 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:40:59 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:40:59 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:40:59 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:03 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:03 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:03 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:03 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:09 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:09 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:09 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:09 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:12 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:12 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:12 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:12 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:16 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:16 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:16 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:16 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:20 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:20 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:20 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:20 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:24 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:24 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:24 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:24 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:36 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:36 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:36 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:36 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:43 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:43 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:43 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:43 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:46 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:46 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:46 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:46 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:50 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:50 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:50 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:50 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:53 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:53 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:41:57 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:41:57 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 104
+[30-Apr-2020 03:41:57 America/New_York] PHP Notice:  Undefined variable: FBottles in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 105
+[30-Apr-2020 03:41:57 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[30-Apr-2020 03:43:33 America/New_York] PHP Notice:  Undefined variable: FShell in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 4
+[30-Apr-2020 03:43:33 America/New_York] PHP Notice:  Undefined variable: Filled in /home/dummjcdw/beta.dummypos.website/actions/add_primary_empty_sale.php on line 115
+[09-May-2020 01:40:27 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 3
+[09-May-2020 01:40:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 6
+[09-May-2020 01:40:27 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php on line 3
+[09-May-2020 01:40:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/functions/helpers.php:12
+Stack trace:
+#0 /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php(4): fetchRecord(NULL, 'customer')
+#1 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/functions/helpers.php on line 12
+[09-May-2020 01:48:04 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 3
+[09-May-2020 01:48:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 6
+[09-May-2020 01:48:04 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php on line 3
+[09-May-2020 01:48:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/functions/helpers.php:12
+Stack trace:
+#0 /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php(4): fetchRecord(NULL, 'customer')
+#1 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/functions/helpers.php on line 12
+[09-May-2020 02:11:46 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php on line 3
+[09-May-2020 02:11:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/functions/helpers.php:12
+Stack trace:
+#0 /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php(4): fetchRecord(NULL, 'customer')
+#1 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/functions/helpers.php on line 12
+[09-May-2020 02:11:46 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 3
+[09-May-2020 02:11:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 6
+[09-May-2020 02:27:30 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 3
+[09-May-2020 02:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 6
+[09-May-2020 02:27:30 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php on line 3
+[09-May-2020 02:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/functions/helpers.php:12
+Stack trace:
+#0 /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php(4): fetchRecord(NULL, 'customer')
+#1 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/functions/helpers.php on line 12
+[09-May-2020 02:38:30 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 3
+[09-May-2020 02:38:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 6
+[09-May-2020 02:38:30 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php on line 3
+[09-May-2020 02:38:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/functions/helpers.php:12
+Stack trace:
+#0 /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php(4): fetchRecord(NULL, 'customer')
+#1 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/functions/helpers.php on line 12
+[09-May-2020 02:50:31 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 3
+[09-May-2020 02:50:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 6
+[09-May-2020 02:50:31 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php on line 3
+[09-May-2020 02:50:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/functions/helpers.php:12
+Stack trace:
+#0 /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php(4): fetchRecord(NULL, 'customer')
+#1 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/functions/helpers.php on line 12
+[10-May-2020 04:08:51 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 3
+[10-May-2020 04:08:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 6
+[10-May-2020 04:08:51 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php on line 3
+[10-May-2020 04:08:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/functions/helpers.php:12
+Stack trace:
+#0 /home/dummjcdw/beta.dummypos.website/actions/fetch_credit_limit.php(4): fetchRecord(NULL, 'customer')
+#1 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/functions/helpers.php on line 12
+[10-May-2020 04:13:35 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 3
+[10-May-2020 04:13:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 6
+[17-May-2020 04:29:19 America/New_York] PHP Notice:  Undefined index: id in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 3
+[17-May-2020 04:29:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dummjcdw/beta.dummypos.website/actions/fetch_balance.php on line 6
